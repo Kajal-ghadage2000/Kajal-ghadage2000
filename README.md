@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Kajal!
 
-- 👨‍💻 A passionate developer.
+- 👨‍💻 A passionate web developer.
 - 💬 Ask me about Android, Flutter, Data Structure, or Python. 
 - 🌱 I like to take care of plants.
 
