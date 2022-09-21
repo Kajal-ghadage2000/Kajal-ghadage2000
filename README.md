@@ -2,7 +2,7 @@
 
 - 👨‍💻 A passionate web developer.
 - 💬 Ask me about Android, Flutter, Data Structure, or Python. 
-- 🌱 I like to take care of plants.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
