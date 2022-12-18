@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Kajal!
 
 - 👨‍💻 A passionate web developer.
-- 💬 Ask me about Android, Flutter, Data Structure, or Python. 
+- 💬 Ask me about Web Development, Android, Flutter, Data Structure, or Python. 
 
 
 <h3 align="left">Connect with me:</h3>
