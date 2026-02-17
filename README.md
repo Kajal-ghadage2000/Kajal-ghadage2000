@@ -18,7 +18,7 @@ Building scalable web applications with clean architecture & performance-first m
 
 ### 🤝 Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/kajal-ghadage-7ba58318a/" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
@@ -55,7 +55,7 @@ Building scalable web applications with clean architecture & performance-first m
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40"/>
 </p>
 
 #### 📦 Tools & Deployment
