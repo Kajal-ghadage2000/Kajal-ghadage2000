@@ -46,6 +46,11 @@ Building scalable web applications with clean architecture & performance-first m
 #### 🎨 Styling & UI
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postcss/postcss-original.svg" width="40" height="40"/>
 </p>
 
 #### 🗄 Backend & Database
